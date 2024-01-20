@@ -1,0 +1,15 @@
+C:\Users\ritmh\RiderProjects\ConvertCollections\ConvertCollections\bin\Debug\net7.0\ConvertCollections.exe
+C:\Users\ritmh\RiderProjects\ConvertCollections\ConvertCollections\bin\Debug\net7.0\ConvertCollections.deps.json
+C:\Users\ritmh\RiderProjects\ConvertCollections\ConvertCollections\bin\Debug\net7.0\ConvertCollections.runtimeconfig.json
+C:\Users\ritmh\RiderProjects\ConvertCollections\ConvertCollections\bin\Debug\net7.0\ConvertCollections.dll
+C:\Users\ritmh\RiderProjects\ConvertCollections\ConvertCollections\bin\Debug\net7.0\ConvertCollections.pdb
+C:\Users\ritmh\RiderProjects\ConvertCollections\ConvertCollections\obj\Debug\net7.0\ConvertCollections.csproj.AssemblyReference.cache
+C:\Users\ritmh\RiderProjects\ConvertCollections\ConvertCollections\obj\Debug\net7.0\ConvertCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritmh\RiderProjects\ConvertCollections\ConvertCollections\obj\Debug\net7.0\ConvertCollections.AssemblyInfoInputs.cache
+C:\Users\ritmh\RiderProjects\ConvertCollections\ConvertCollections\obj\Debug\net7.0\ConvertCollections.AssemblyInfo.cs
+C:\Users\ritmh\RiderProjects\ConvertCollections\ConvertCollections\obj\Debug\net7.0\ConvertCollections.csproj.CoreCompileInputs.cache
+C:\Users\ritmh\RiderProjects\ConvertCollections\ConvertCollections\obj\Debug\net7.0\ConvertCollections.dll
+C:\Users\ritmh\RiderProjects\ConvertCollections\ConvertCollections\obj\Debug\net7.0\refint\ConvertCollections.dll
+C:\Users\ritmh\RiderProjects\ConvertCollections\ConvertCollections\obj\Debug\net7.0\ConvertCollections.pdb
+C:\Users\ritmh\RiderProjects\ConvertCollections\ConvertCollections\obj\Debug\net7.0\ConvertCollections.genruntimeconfig.cache
+C:\Users\ritmh\RiderProjects\ConvertCollections\ConvertCollections\obj\Debug\net7.0\ref\ConvertCollections.dll

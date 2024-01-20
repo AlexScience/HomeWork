@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertCollections", "ConvertCollections\ConvertCollections.csproj", "{80E4FD11-4915-483D-B937-07B78D1C7260}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindConsonants", "FindConsonants\FindConsonants.csproj", "{F52AD8C6-823B-467D-8106-9B9B6CC3AFBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80E4FD11-4915-483D-B937-07B78D1C7260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E4FD11-4915-483D-B937-07B78D1C7260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E4FD11-4915-483D-B937-07B78D1C7260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E4FD11-4915-483D-B937-07B78D1C7260}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F52AD8C6-823B-467D-8106-9B9B6CC3AFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F52AD8C6-823B-467D-8106-9B9B6CC3AFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F52AD8C6-823B-467D-8106-9B9B6CC3AFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F52AD8C6-823B-467D-8106-9B9B6CC3AFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

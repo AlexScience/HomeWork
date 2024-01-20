@@ -1,0 +1,15 @@
+C:\Users\ritmh\RiderProjects\ConvertCollections\FindConsonants\bin\Debug\net7.0\FindConsonants.exe
+C:\Users\ritmh\RiderProjects\ConvertCollections\FindConsonants\bin\Debug\net7.0\FindConsonants.deps.json
+C:\Users\ritmh\RiderProjects\ConvertCollections\FindConsonants\bin\Debug\net7.0\FindConsonants.runtimeconfig.json
+C:\Users\ritmh\RiderProjects\ConvertCollections\FindConsonants\bin\Debug\net7.0\FindConsonants.dll
+C:\Users\ritmh\RiderProjects\ConvertCollections\FindConsonants\bin\Debug\net7.0\FindConsonants.pdb
+C:\Users\ritmh\RiderProjects\ConvertCollections\FindConsonants\obj\Debug\net7.0\FindConsonants.csproj.AssemblyReference.cache
+C:\Users\ritmh\RiderProjects\ConvertCollections\FindConsonants\obj\Debug\net7.0\FindConsonants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritmh\RiderProjects\ConvertCollections\FindConsonants\obj\Debug\net7.0\FindConsonants.AssemblyInfoInputs.cache
+C:\Users\ritmh\RiderProjects\ConvertCollections\FindConsonants\obj\Debug\net7.0\FindConsonants.AssemblyInfo.cs
+C:\Users\ritmh\RiderProjects\ConvertCollections\FindConsonants\obj\Debug\net7.0\FindConsonants.csproj.CoreCompileInputs.cache
+C:\Users\ritmh\RiderProjects\ConvertCollections\FindConsonants\obj\Debug\net7.0\FindConsonants.dll
+C:\Users\ritmh\RiderProjects\ConvertCollections\FindConsonants\obj\Debug\net7.0\refint\FindConsonants.dll
+C:\Users\ritmh\RiderProjects\ConvertCollections\FindConsonants\obj\Debug\net7.0\FindConsonants.pdb
+C:\Users\ritmh\RiderProjects\ConvertCollections\FindConsonants\obj\Debug\net7.0\FindConsonants.genruntimeconfig.cache
+C:\Users\ritmh\RiderProjects\ConvertCollections\FindConsonants\obj\Debug\net7.0\ref\FindConsonants.dll
